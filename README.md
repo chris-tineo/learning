@@ -25,9 +25,9 @@ No todos los cursos duran lo mismo. Historia de la Computación se completa en p
 1. [Historia de la Computación](01-modulo-basico/01-historia-de-la-computacion/README.md)
 2. [Fundamentos de Hardware](01-modulo-basico/02-fundamentos-de-hardware/README.md)
 3. [Fundamentos de Sistemas Operativos](01-modulo-basico/03-fundamentos-de-sistemas-operativos/README.md)
-4. Windows Básico *(pendiente)*
-5. Linux Básico *(pendiente)*
-6. Networking Básico *(pendiente)*
+4. [Windows Básico](01-modulo-basico/04-windows-basico/README.md)
+5. [Linux Básico](01-modulo-basico/05-linux-basico/README.md)
+6. [Networking Básico](01-modulo-basico/06-networking-basico/README.md)
 7. Fundamentos de Git *(pendiente)*
 8. Introducción a Cloud Computing *(pendiente)*
 9. Inteligencia Artificial Básica *(pendiente)*

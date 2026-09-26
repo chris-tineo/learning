@@ -7,9 +7,9 @@ Nueve cursos que llevan al estudiante desde cero hasta poder moverse con soltura
 | 1 | [Historia de la Computación](01-historia-de-la-computacion/README.md) | 4-6 h | ✅ Completo |
 | 2 | [Fundamentos de Hardware](02-fundamentos-de-hardware/README.md) | 8-12 h | ✅ Completo |
 | 3 | [Fundamentos de Sistemas Operativos](03-fundamentos-de-sistemas-operativos/README.md) | 10-15 h | ✅ Completo |
-| 4 | Windows Básico | 10-15 h | ⬜ Pendiente |
-| 5 | Linux Básico | 20-30 h | ⬜ Pendiente |
-| 6 | Networking Básico | 15-20 h | ⬜ Pendiente |
+| 4 | [Windows Básico](04-windows-basico/README.md) | 10-15 h | ✅ Completo |
+| 5 | [Linux Básico](05-linux-basico/README.md) | 20-30 h | ✅ Completo |
+| 6 | [Networking Básico](06-networking-basico/README.md) | 15-20 h | ✅ Completo |
 | 7 | Fundamentos de Git | 8-12 h | ⬜ Pendiente |
 | 8 | Introducción a Cloud Computing | 10-15 h | ⬜ Pendiente |
 | 9 | Inteligencia Artificial Básica | 8-10 h | ⬜ Pendiente |
@@ -23,19 +23,6 @@ Los cursos están pensados para hacerse en orden. Los tres primeros son conceptu
 ## Temarios fijos de los cursos pendientes
 
 Se conservan aquí para referencia hasta que cada curso tenga su guía completa.
-
-### 4. Windows Básico
-Estructura básica de Windows · File Explorer · Task Manager · Usuarios y grupos · Permisos · Services · Event Viewer · Device Manager · CMD · PowerShell introductorio · Variables de entorno · Instalación y desinstalación de software · Configuración de red · ipconfig · ping · tracert · nslookup · Troubleshooting elemental.
-**Práctica sugerida:** crear usuarios, inspeccionar servicios, comprobar conectividad y revisar eventos del sistema.
-
-### 5. Linux Básico
-Qué es Linux · Distribuciones · Terminal · Estructura del sistema de archivos · Paths absolutos y relativos · pwd · ls · cd · mkdir · touch · cp · mv · rm · cat · less · grep · find · sudo · Usuarios · Grupos · Permisos · Instalación de paquetes · Servicios básicos · SSH introductorio.
-**Práctica sugerida:** crear una VM Linux y completar tareas utilizando principalmente la terminal.
-
-### 6. Networking Básico
-Qué es una red · LAN · WAN · Internet · IPv4 · Direcciones IP públicas y privadas · Máscara · Gateway · MAC Address · DNS · DHCP · TCP · UDP · Puertos · Switches · Routers · Firewalls · NAT · Modelo cliente-servidor · HTTP y HTTPS · Routing introductorio · Subnetting introductorio.
-**Herramientas:** ping, traceroute, tracert, nslookup, ipconfig, ip.
-**Práctica sugerida:** comprobar conectividad entre máquinas, analizar IPs, DNS y rutas.
 
 ### 7. Fundamentos de Git
 Control de versiones · Repositorios · Working directory · Staging · Commits · Clone · Pull · Push · Branches básicas · .gitignore · Repositorios remotos · Introducción a GitHub.
