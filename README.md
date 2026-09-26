@@ -28,9 +28,9 @@ No todos los cursos duran lo mismo. Historia de la Computación se completa en p
 4. [Windows Básico](01-modulo-basico/04-windows-basico/README.md)
 5. [Linux Básico](01-modulo-basico/05-linux-basico/README.md)
 6. [Networking Básico](01-modulo-basico/06-networking-basico/README.md)
-7. Fundamentos de Git *(pendiente)*
-8. Introducción a Cloud Computing *(pendiente)*
-9. Inteligencia Artificial Básica *(pendiente)*
+7. [Fundamentos de Git](01-modulo-basico/07-fundamentos-de-git/README.md)
+8. [Introducción a Cloud Computing](01-modulo-basico/08-introduccion-a-cloud-computing/README.md)
+9. [Inteligencia Artificial Básica](01-modulo-basico/09-inteligencia-artificial-basica/README.md)
 
 ### Módulo Intermedio
 1. Administración de Linux
