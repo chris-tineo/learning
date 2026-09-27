@@ -595,4 +595,4 @@ Antes de pedir la defensa, deberías poder marcar con honestidad:
 
 ---
 
-*Recursos verificados el 2026-09-27 mediante búsqueda web (existencia y vigencia de las URLs). Los precios de Azure citados son órdenes de magnitud a esa fecha: la calculadora de precios de Azure con tu región manda sobre esta guía. Si un enlace falla, abre un issue en este repositorio.*
+*Recursos verificados el 2026-09-27 (existencia y vigencia de las URLs mediante búsqueda web y, cuando el cupo de búsqueda se agotó, mediante los repositorios oficiales de la documentación). Los precios de Azure citados son órdenes de magnitud a esa fecha: la calculadora de precios de Azure con tu región manda sobre esta guía. Si un enlace falla, abre un issue en este repositorio.*

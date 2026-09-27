@@ -129,6 +129,17 @@ Containers frente a VMs · Images · Containers · Layers · Dockerfile · Regis
 - **Acceso:** Libre
 - **Por qué lo recomiendo:** Solo para entender que "imagen Docker" es en realidad "imagen OCI": un manifiesto JSON, una configuración y capas comprimidas, y por eso la misma imagen funciona con Docker, Podman, containerd y Kubernetes. No hace falta leerlas enteras.
 
+### Docker Tutorial for Beginners (curso completo) — TechWorld with Nana
+- **URL:** https://www.youtube.com/playlist?list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs (canal: https://www.youtube.com/c/techworldwithnana)
+- **Autor / organización:** Nana Janashia (TechWorld with Nana)
+- **Idioma:** Inglés (subtítulos)
+- **Tipo:** Curso en vídeo
+- **Duración aproximada:** ~3 h
+- **Cubre:** Contenedores frente a VMs, imágenes, capas, Dockerfile, volúmenes, redes, Compose, registries, flujo de trabajo de desarrollo.
+- **Nivel:** Introductorio-intermedio
+- **Acceso:** Libre
+- **Por qué lo recomiendo:** Es el curso en vídeo de Docker más recomendado en inglés, con demos completas y sin relleno. Ideal para ver el flujo entero antes de leer la documentación oficial. Algunos comandos de la interfaz han cambiado desde su publicación; la documentación manda.
+
 ## Documentación oficial
 
 - **Instalación:** Docker Engine en Ubuntu (repositorio oficial de Docker, no snap) https://docs.docker.com/engine/install/ubuntu/ · pasos posteriores (grupo `docker`, arranque) https://docs.docker.com/engine/install/linux-postinstall/
@@ -445,4 +456,4 @@ Antes de continuar, deberías poder:
 
 ---
 
-*Recursos verificados el 2026-09-27 mediante búsqueda web (existencia y vigencia de las URLs). Los precios de ACR y ACI son aproximados: la calculadora de Azure manda. Si un enlace falla, abre un issue en este repositorio.*
+*Recursos verificados el 2026-09-27 (existencia y vigencia de las URLs mediante búsqueda web y, cuando el cupo de búsqueda se agotó, mediante los repositorios oficiales de la documentación). Los precios de ACR y ACI son aproximados: la calculadora de Azure manda. Si un enlace falla, abre un issue en este repositorio.*

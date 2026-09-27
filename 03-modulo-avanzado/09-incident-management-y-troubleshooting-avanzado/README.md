@@ -63,6 +63,17 @@ Incident severity · Incident Commander · War rooms · Escalation · Mitigation
 - **Acceso:** Libre
 - **Por qué lo recomiendo:** Reconstruir un incidente exige buscar en logs por rango de tiempo, `trace_id` y servicio, y contar eventos por minuto. LogQL hace todo eso y lo aprendes en una hora si ya conoces PromQL.
 
+### Manual de gestión de incidentes de Atlassian y plantillas de comunicación — Atlassian
+- **URL:** https://www.atlassian.com/es/incident-management/handbook · Cómo respondemos ante un incidente: https://www.atlassian.com/es/incident-management/handbook/incident-response · Plantillas de comunicación: https://www.atlassian.com/es/incident-management/incident-communication/templates
+- **Autor / organización:** Atlassian
+- **Idioma:** Español
+- **Tipo:** Manual online (también descargable en PDF) y plantillas
+- **Duración aproximada:** 2 h
+- **Cubre:** Severidades, roles (Incident Commander, comunicaciones), war rooms, escalado, comunicación a stakeholders, postmortems, acciones correctivas.
+- **Nivel:** Intermedio
+- **Acceso:** Libre (el PDF pide correo; la versión web no)
+- **Por qué lo recomiendo:** Es el manual de gestión de incidentes más completo disponible en español, basado en el proceso real de Atlassian. Sus plantillas de comunicación se usan tal cual en el laboratorio.
+
 ## Recursos en inglés
 
 ### SRE Book: "Managing Incidents", "Emergency Response", "Postmortem Culture: Learning from Failure" y "Effective Troubleshooting" — Google
@@ -108,6 +119,17 @@ Incident severity · Incident Commander · War rooms · Escalation · Mitigation
 - **Nivel:** Intermedio
 - **Acceso:** Libre
 - **Por qué lo recomiendo:** La reconstrucción del timeline de la Parte E se hace con búsquedas por rango temporal en Loki y trazas concretas en Tempo (la primera petición fallida, la última correcta). Ten a mano la sintaxis de búsqueda de ambos.
+
+### PagerDuty Incident Response y PagerDuty Postmortem Documentation — PagerDuty
+- **URL:** https://response.pagerduty.com/ · https://postmortems.pagerduty.com/
+- **Autor / organización:** PagerDuty (documentación interna liberada como código abierto)
+- **Idioma:** Inglés
+- **Tipo:** Guías operativas
+- **Duración aproximada:** 2-3 h en total
+- **Cubre:** Roles (IC, escriba, comunicaciones), severidades, proceso durante y después del incidente, escalado, postmortem paso a paso, reuniones de postmortem.
+- **Nivel:** Intermedio
+- **Acceso:** Libre
+- **Por qué lo recomiendo:** Es el proceso de respuesta a incidentes de una empresa que vive de ello, publicado íntegro. La sección "During an Incident" y la guía de postmortems son la referencia práctica de las plantillas del laboratorio.
 
 ## Documentación oficial
 
@@ -359,4 +381,4 @@ Antes de continuar, deberías poder:
 
 ---
 
-*Recursos verificados el 2026-09-27 mediante búsqueda web (existencia y vigencia de las URLs). Si un enlace falla, abre un issue en este repositorio.*
+*Recursos verificados el 2026-09-27 (existencia y vigencia de las URLs mediante búsqueda web y, cuando el cupo de búsqueda se agotó, mediante los repositorios oficiales de la documentación). Las páginas de Microsoft Learn se enlazan en `es-es` cuando se confirmó la traducción; en el resto se indica cómo cambiar el idioma. Si un enlace falla, abre un issue en este repositorio.*

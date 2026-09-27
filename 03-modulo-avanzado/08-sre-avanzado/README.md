@@ -63,6 +63,17 @@ SLI · SLO · SLA · Error Budgets · Reliability engineering · Toil reduction 
 - **Acceso:** Libre
 - **Por qué lo recomiendo:** Un SLI mal especificado casi siempre nace de no tener claro en qué punto de la cadena se mide. Repasar los componentes y los puntos de instrumentación antes de la Parte B evita ese error.
 
+### Introducción a la Ingeniería de confiabilidad de sitios y Administración de la confiabilidad del sitio — Microsoft Learn
+- **URL:** https://learn.microsoft.com/es-es/training/modules/intro-to-site-reliability-engineering/ · https://learn.microsoft.com/es-es/training/modules/manage-site-reliability/ · Portal de SRE de Microsoft: https://learn.microsoft.com/es-es/azure/site-reliability-engineering/
+- **Autor / organización:** Microsoft
+- **Idioma:** Español
+- **Tipo:** Módulos de aprendizaje
+- **Duración aproximada:** 1,5-2 h
+- **Cubre:** SLI, SLO, SLA, error budgets, toil, prácticas de confiabilidad, desde la perspectiva de Azure.
+- **Nivel:** Introductorio-intermedio
+- **Acceso:** Libre
+- **Por qué lo recomiendo:** Es el material oficial de Microsoft sobre SRE en español. Sirve como repaso antes de entrar en el SRE Workbook y aporta la terminología en español que usarás en tus documentos de SLO.
+
 ## Recursos en inglés
 
 ### SRE Workbook: "Implementing SLOs", "SLO Engineering Case Studies", "Example SLO Document" y "Alerting on SLOs" — Google
@@ -119,6 +130,17 @@ SLI · SLO · SLA · Error Budgets · Reliability engineering · Toil reduction 
 - **Nivel:** Intermedio
 - **Acceso:** Libre; el binario de k6 es open source y no necesita cuenta de Grafana Cloud
 - **Por qué lo recomiendo:** k6 es la herramienta de carga más usada en equipos SRE y sus `thresholds` te permiten escribir el SLO como criterio de paso o fallo de la prueba. Si prefieres algo más simple, `hey` (una sola línea de comando) es suficiente para la Parte F.
+
+### Principles of Chaos Engineering y documentación de Grafana k6 — comunidad Chaos Engineering / Grafana Labs
+- **URL:** https://principlesofchaos.org/ · https://grafana.com/docs/k6/latest/
+- **Autor / organización:** Comunidad de Chaos Engineering (manifiesto originado en Netflix) y Grafana Labs
+- **Idioma:** Inglés
+- **Tipo:** Manifiesto y documentación oficial de herramienta
+- **Duración aproximada:** 20 min el manifiesto; k6, 1-2 h para los tutoriales de introducción
+- **Cubre:** Engineering for failure, experimentos de caos con hipótesis, pruebas de carga y de capacidad, performance (percentiles).
+- **Nivel:** Intermedio
+- **Acceso:** Libre (k6 es open source; Grafana Cloud k6 es opcional y de pago)
+- **Por qué lo recomiendo:** El manifiesto define en una página qué es y qué no es un experimento de caos; k6 es la herramienta de carga más usada hoy y la que se emplea en el laboratorio para encontrar el punto de saturación.
 
 ## Documentación oficial
 
@@ -365,4 +387,4 @@ Antes de continuar, deberías poder:
 
 ---
 
-*Recursos verificados el 2026-09-27 mediante búsqueda web (existencia y vigencia de las URLs). Si un enlace falla, abre un issue en este repositorio.*
+*Recursos verificados el 2026-09-27 (existencia y vigencia de las URLs mediante búsqueda web y, cuando el cupo de búsqueda se agotó, mediante los repositorios oficiales de la documentación). Las páginas de Microsoft Learn se enlazan en `es-es` cuando se confirmó la traducción; en el resto se indica cómo cambiar el idioma. Si un enlace falla, abre un issue en este repositorio.*

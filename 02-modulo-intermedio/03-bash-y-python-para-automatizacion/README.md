@@ -63,8 +63,41 @@ Variables · Condiciones · Loops · Funciones · Parámetros · Archivos · Var
 - **Acceso:** Libre
 - **Por qué lo recomiendo:** Es el curso de Python en español más seguido, actualizado y con el código de cada lección en el repositorio para que lo ejecutes y lo modifiques. Es tu recurso principal si nunca has programado en Python. Si ya lo has hecho, salta directamente al tutorial oficial.
 
-### Documentación oficial de Python en español (tutorial y biblioteca estándar) — Python Software Foundation, traducción de la comunidad python-docs-es
-- **URL:** https://python-docs-es.readthedocs.io/ (proyecto de traducción: https://github.com/python/python-docs-es)
+#### GNU Bash Reference Manual — Free Software Foundation (Chet Ramey, Brian Fox)
+- **URL:** https://www.gnu.org/software/bash/manual/bash.html
+- **Autor / organización:** Proyecto GNU / Free Software Foundation
+- **Idioma:** Inglés
+- **Tipo:** Manual de referencia oficial
+- **Duración aproximada:** Consulta puntual; los capítulos 3 (Basic Shell Features) y 6 (Bash Features) suman ~2 h
+- **Cubre:** Variables, expansiones, condiciones, loops, funciones, parámetros, redirecciones, manejo de errores (`set`, `trap`).
+- **Nivel:** Intermedio
+- **Acceso:** Libre
+- **Por qué lo recomiendo:** Es la referencia definitiva de Bash, la misma que `man bash` pero navegable. Cuando un script se comporta de forma rara, la respuesta está aquí y no en un blog.
+
+### BashGuide, BashFAQ y BashPitfalls — Greg's Wiki (Greg Wooledge)
+- **URL:** https://mywiki.wooledge.org/BashGuide · https://mywiki.wooledge.org/BashPitfalls · https://mywiki.wooledge.org/BashFAQ
+- **Autor / organización:** Greg Wooledge y la comunidad del canal #bash
+- **Idioma:** Inglés
+- **Tipo:** Guía y listas de errores frecuentes
+- **Duración aproximada:** 2-3 h la guía; Pitfalls se consulta al revisar scripts
+- **Cubre:** Buenas prácticas de Bash, citado de variables, arrays, `while read`, errores clásicos.
+- **Nivel:** Intermedio
+- **Acceso:** Libre
+- **Por qué lo recomiendo:** BashPitfalls es la lista de los errores que todos cometemos (`for f in $(ls)`, comparar sin comillas, `cd` sin comprobar). Pásale tus scripts del laboratorio antes de entregarlos; ShellCheck detecta muchos, esta página explica por qué son errores.
+
+### Automate the Boring Stuff with Python (3.ª edición) — Al Sweigart
+- **URL:** https://automatetheboringstuff.com/
+- **Autor / organización:** Al Sweigart (No Starch Press), publicado bajo licencia Creative Commons
+- **Idioma:** Inglés
+- **Tipo:** Libro online gratuito
+- **Duración aproximada:** Para este curso, capítulos sobre archivos, rutas, JSON, web y manejo de errores (~4 h)
+- **Cubre:** Archivos, JSON, HTTP, manejo de errores, automatización de tareas.
+- **Nivel:** Introductorio-intermedio
+- **Acceso:** Libre (la versión impresa es de pago y no es necesaria)
+- **Por qué lo recomiendo:** Es el libro de Python para automatizar tareas por excelencia y es gratuito en la web del autor. Complementa a PY4E con ejemplos directamente aplicables al laboratorio.
+
+## Documentación oficial de Python en español (tutorial y biblioteca estándar) — Python Software Foundation, traducción de la comunidad python-docs-es
+- **URL:** https://docs.python.org/es/3/tutorial/ (tutorial oficial en español; la misma traducción se publica también en https://python-docs-es.readthedocs.io/)
 - **Autor / organización:** Python Software Foundation; traducción coordinada por la comunidad hispanohablante de Python
 - **Idioma:** Español
 - **Tipo:** Documentación oficial (tutorial, referencia de la biblioteca)
@@ -301,4 +334,4 @@ Antes de continuar, deberías poder:
 
 ---
 
-*Recursos verificados el 2026-09-27 mediante búsqueda web (existencia y vigencia de las URLs). Si un enlace falla, abre un issue en este repositorio.*
+*Recursos verificados el 2026-09-27 (existencia y vigencia de las URLs mediante búsqueda web y, cuando el cupo de búsqueda se agotó, mediante los repositorios oficiales de la documentación). Las páginas de Microsoft Learn se enlazan en `es-es` cuando se confirmó la traducción; en el resto se indica cómo cambiar el idioma. Si un enlace falla, abre un issue en este repositorio.*

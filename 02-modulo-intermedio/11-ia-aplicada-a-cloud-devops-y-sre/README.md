@@ -326,4 +326,4 @@ Antes de continuar al Módulo Avanzado, deberías poder:
 
 ---
 
-*Recursos verificados el 2026-09-27 mediante búsqueda web (existencia y vigencia de las URLs). Los planes gratuitos, los límites de uso y los precios de las APIs de modelos cambian con frecuencia: la documentación oficial de cada proveedor manda sobre lo que aquí se describe. Si un enlace falla, abre un issue en este repositorio.*
+*Recursos verificados el 2026-09-27 (existencia y vigencia de las URLs mediante búsqueda web y, cuando el cupo de búsqueda se agotó, mediante los repositorios oficiales de la documentación). Los planes gratuitos, los límites de uso y los precios de las APIs de modelos cambian con frecuencia: la documentación oficial de cada proveedor manda sobre lo que aquí se describe. Si un enlace falla, abre un issue en este repositorio.*

@@ -326,4 +326,4 @@ Antes de continuar, deberías poder:
 
 ---
 
-*Recursos verificados el 2026-09-27 mediante búsqueda web (existencia y vigencia de las URLs). Los precios indicados son aproximados y cambian: la calculadora y las páginas de precios de Azure mandan. Si un enlace falla, abre un issue en este repositorio.*
+*Recursos verificados el 2026-09-27 (existencia y vigencia de las URLs mediante búsqueda web y, cuando el cupo de búsqueda se agotó, mediante los repositorios oficiales de la documentación). Los precios indicados son aproximados y cambian: la calculadora y las páginas de precios de Azure mandan. Si un enlace falla, abre un issue en este repositorio.*
